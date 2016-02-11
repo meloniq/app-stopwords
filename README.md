@@ -47,7 +47,7 @@ $stopwords = APP_StopWords::stopwords( 'english' );
 Get an array of stop words by locale code
 
 ```php
-$stopwords = APP_StopWords::stopwords_by_locale( 'english' );
+$stopwords = APP_StopWords::stopwords_by_locale( 'en_US' );
 ```
 
 
